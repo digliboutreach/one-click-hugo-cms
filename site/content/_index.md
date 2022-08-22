@@ -1,6 +1,6 @@
 ---
 title: "Digital Library Outreach"
-subtitle: Support sustainable farming while enjoying a cup
+
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why?
